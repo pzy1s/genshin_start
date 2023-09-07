@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+build/genshin_start/*.pkg filter=lfs diff=lfs merge=lfs -text
